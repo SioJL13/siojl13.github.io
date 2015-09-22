@@ -6,8 +6,8 @@ categories: i-week update
 ---
 The link for my blog is in wordpress:
 
-The link is:
-http://masteringsiomara.wordpress.com/
+The link is [Mastering blog][blog]
+
 
 
 
@@ -18,3 +18,5 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Siomara' to STDOUT.
 {% endhighlight %}
+
+[blog]: http://masteringsiomara.wordpress.com/
